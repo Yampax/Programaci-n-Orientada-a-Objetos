@@ -1,37 +1,39 @@
 Repositorio destinado a almacenar los ejercicios y prácticas de Programación Orientada a Objetos realizados en Java.
 
-📑 Índice
+# 📑 Índice
 
-Unidad 2:
-Ejercitación 2.1
+## Unidad 2:
 
-Bloque I: Definición de Clases, Instanciación y Constructores
+### Ejercitación 2.1
 
-  [Ejercicio 1: Modelado básico e instanciación (Persona)](./2.1-Ejercicio-1/)
-  
-  [Ejercicio 2: Parametrización con Constructores (Mascota)]
+#### Bloque I: Definición de Clases, Instanciación y Constructores
+
+-[Ejercicio 1: Modelado básico e instanciación (Persona)](./2.1-Ejercicio-1/)
+  <br>
+-[Ejercicio 2: Parametrización con Constructores (Mascota)]
  
-Bloque II: Comportamiento, Métodos y Retorno de Valores
+#### Bloque II: Comportamiento, Métodos y Retorno de Valores
 
-[Ejercicio 3: Transición de Estados (Auto)]
+-[Ejercicio 3: Transición de Estados (Auto)]
+<br>
+-[Ejercicio 4: Firma de Métodos y Retorno de Datos (Calculadora)]
 
-[Ejercicio 4: Firma de Métodos y Retorno de Datos (Calculadora)]
+#### Bloque III: Acumuladores de Estado e Iteración Interna
 
-Bloque III: Acumuladores de Estado e Iteración Interna
+-[Ejercicio 5: Control de Límites Internos (Contador)]
+<br>
+-[Ejercicio 6: Cálculos de Progreso y Porcentajes (Libro)]
 
-[Ejercicio 5: Control de Límites Internos (Contador)]
+#### Bloque IV: Encapsulamiento y Colecciones en Java
 
-[Ejercicio 6: Cálculos de Progreso y Porcentajes (Libro)]
+-[Ejercicio 7: Encapsulamiento Riguroso (CuentaBancaria)]
+<br>
+-[Ejercicio 8: Manejo de Estructuras Dinámicas (Estudiante y ArrayList)]
 
-Bloque IV: Encapsulamiento y Colecciones en Java
+#### Bloque V: Interacción y Asociación entre Objetos
 
-[Ejercicio 7: Encapsulamiento Riguroso (CuentaBancaria)]
+-[Ejercicio 9: Asociación entre Clases (Producto y CarritoDeCompras)]
+<br>
+-[Ejercicio 10: Modelado de Dominio e Interacción Directa (Personaje)]
 
-[Ejercicio 8: Manejo de Estructuras Dinámicas (Estudiante y ArrayList)]
-
-Bloque V: Interacción y Asociación entre Objetos
-
-[Ejercicio 9: Asociación entre Clases (Producto y CarritoDeCompras)]
-[Ejercicio 10: Modelado de Dominio e Interacción Directa (Personaje)]
-
-Ejercitación 2.1
+### Ejercitación 2.1
