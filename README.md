@@ -7,7 +7,7 @@ Ejercitación 2.1
 
 Bloque I: Definición de Clases, Instanciación y Constructores
 
-  [Ejercicio 1: Modelado básico e instanciación (Persona)](.2.1-Ejercicio-1/Persona.java)
+  [Ejercicio 1: Modelado básico e instanciación (Persona)](./2.1-Ejercicio-1/)
   
   [Ejercicio 2: Parametrización con Constructores (Mascota)]
  
