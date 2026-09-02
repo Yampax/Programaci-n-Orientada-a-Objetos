@@ -2,28 +2,32 @@ Repositorio destinado a almacenar los ejercicios y prácticas de Programación O
 
 📑 Índice
 
-  Bloque I: Definición de Clases, Instanciación y Constructores
-    
-  [Ejercicio 1: Modelado básico e instanciación (Persona)](./Ejercicio 1: Modelado básico e instanciación (Persona))
-  
-  Ejercicio 2: Parametrización con Constructores (Mascota)
+Unidad 2:
+Ejercitación 2.1
 
-  Bloque II: Comportamiento, Métodos y Retorno de Valores
-   
-    Ejercicio 3: Transición de Estados (Auto)
-    Ejercicio 4: Firma de Métodos y Retorno de Datos (Calculadora)
+Bloque I: Definición de Clases, Instanciación y Constructores
 
-  Bloque III: Acumuladores de Estado e Iteración Interna
-  
-    Ejercicio 5: Control de Límites Internos (Contador)
-    Ejercicio 6: Cálculos de Progreso y Porcentajes (Libro)
+ [Ejercicio 1: Modelado básico e instanciación (Persona)]
+ [Ejercicio 2: Parametrización con Constructores (Mascota)]
+ 
+Bloque II: Comportamiento, Métodos y Retorno de Valores
 
-  Bloque IV: Encapsulamiento y Colecciones en Java
-    
-    Ejercicio 7: Encapsulamiento Riguroso (CuentaBancaria)
-    Ejercicio 8: Manejo de Estructuras Dinámicas (Estudiante y ArrayList)
+[Ejercicio 3: Transición de Estados (Auto)]
+[Ejercicio 4: Firma de Métodos y Retorno de Datos (Calculadora)]
 
-  Bloque V: Interacción y Asociación entre Objetos
-   
-    Ejercicio 9: Asociación entre Clases (Producto y CarritoDeCompras)
-    Ejercicio 10: Modelado de Dominio e Interacción Directa (Personaje)
+Bloque III: Acumuladores de Estado e Iteración Interna
+
+[Ejercicio 5: Control de Límites Internos (Contador)]
+[Ejercicio 6: Cálculos de Progreso y Porcentajes (Libro)]
+
+Bloque IV: Encapsulamiento y Colecciones en Java
+
+[Ejercicio 7: Encapsulamiento Riguroso (CuentaBancaria)]
+[Ejercicio 8: Manejo de Estructuras Dinámicas (Estudiante y ArrayList)]
+
+Bloque V: Interacción y Asociación entre Objetos
+
+[Ejercicio 9: Asociación entre Clases (Producto y CarritoDeCompras)]
+[Ejercicio 10: Modelado de Dominio e Interacción Directa (Personaje)]
+
+Ejercitación 2.1
