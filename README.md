@@ -10,7 +10,7 @@ Repositorio destinado a almacenar los ejercicios y prácticas de Programación O
 
 -[Ejercicio 1: Modelado básico e instanciación (Persona)](./2.1-Ejercicio-1/)
   <br>
--[Ejercicio 2: Parametrización con Constructores (Mascota)]
+-[Ejercicio 2: Parametrización con Constructores (Mascota)](./2.1-Ejercicio-2/)
  
 #### Bloque II: Comportamiento, Métodos y Retorno de Valores
 
