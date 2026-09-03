@@ -14,7 +14,7 @@ Repositorio destinado a almacenar los ejercicios y prácticas de Programación O
  
 #### Bloque II: Comportamiento, Métodos y Retorno de Valores
 
--[Ejercicio 3: Transición de Estados (Auto)]
+-[Ejercicio 3: Transición de Estados (Auto)](./2.1-Ejercicio-3/)
 <br>
 -[Ejercicio 4: Firma de Métodos y Retorno de Datos (Calculadora)]
 
