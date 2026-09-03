@@ -20,7 +20,7 @@ Repositorio destinado a almacenar los ejercicios y prácticas de Programación O
 
 #### Bloque III: Acumuladores de Estado e Iteración Interna
 
--[Ejercicio 5: Control de Límites Internos (Contador)]
+-[Ejercicio 5: Control de Límites Internos (Contador)](./2.1-Ejercicio-5/)
 <br>
 -[Ejercicio 6: Cálculos de Progreso y Porcentajes (Libro)]
 
