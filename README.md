@@ -32,7 +32,7 @@ Repositorio destinado a almacenar los ejercicios y prácticas de Programación O
 
 #### Bloque V: Interacción y Asociación entre Objetos
 
--[Ejercicio 9: Asociación entre Clases (Producto y CarritoDeCompras)]
+-[Ejercicio 9: Asociación entre Clases (Producto y CarritoDeCompras)](./2.1-Ejercicio-9/)
 <br>
 -[Ejercicio 10: Modelado de Dominio e Interacción Directa (Personaje)]
 
