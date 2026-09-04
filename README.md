@@ -28,7 +28,7 @@ Repositorio destinado a almacenar los ejercicios y prácticas de Programación O
 
 -[Ejercicio 7: Encapsulamiento Riguroso (CuentaBancaria)](./2.1-Ejercicio-7/)
 <br>
--[Ejercicio 8: Manejo de Estructuras Dinámicas (Estudiante y ArrayList)]
+-[Ejercicio 8: Manejo de Estructuras Dinámicas (Estudiante y ArrayList)](./2.1-Ejercicio-8/)
 
 #### Bloque V: Interacción y Asociación entre Objetos
 
