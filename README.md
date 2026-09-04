@@ -22,7 +22,7 @@ Repositorio destinado a almacenar los ejercicios y prácticas de Programación O
 
 -[Ejercicio 5: Control de Límites Internos (Contador)](./2.1-Ejercicio-5/)
 <br>
--[Ejercicio 6: Cálculos de Progreso y Porcentajes (Libro)]
+-[Ejercicio 6: Cálculos de Progreso y Porcentajes (Libro)](./2.1-Ejercicio-6/)
 
 #### Bloque IV: Encapsulamiento y Colecciones en Java
 
