@@ -26,7 +26,7 @@ Repositorio destinado a almacenar los ejercicios y prácticas de Programación O
 
 #### Bloque IV: Encapsulamiento y Colecciones en Java
 
--[Ejercicio 7: Encapsulamiento Riguroso (CuentaBancaria)]
+-[Ejercicio 7: Encapsulamiento Riguroso (CuentaBancaria)](./2.1-Ejercicio-7/)
 <br>
 -[Ejercicio 8: Manejo de Estructuras Dinámicas (Estudiante y ArrayList)]
 
