@@ -4,7 +4,7 @@
 
 ### Bloque I: Definición de Clases, Instanciación y Constructores
 
--[Ejercicio 1: Modelado básico e instanciación (ArticuloGeek)](./Ejercitación%202.2/2.2-Ejercicio-01/)
+-[Ejercicio 1: Modelado básico e instanciación (ArticuloGeek)](Ejercitación%202.2/2.2-Ejercicio-01)
 <br>
 -[Ejercicio 2: Parametrización con Constructores (Videojuego)](./Ejercitación%202.2/2.2-Ejercicio-02/)
 
