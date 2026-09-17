@@ -34,6 +34,6 @@ Repositorio destinado a almacenar los ejercicios y prácticas de Programación O
 
 -[Ejercicio 9: Asociación entre Clases (Producto y CarritoDeCompras)](./2.1-Ejercicio-9/)
 <br>
--[Ejercicio 10: Modelado de Dominio e Interacción Directa (Personaje)]
+-[Ejercicio 10: Modelado de Dominio e Interacción Directa (Personaje)](./2.1-Ejercicio-10/)
 
 ### Ejercitación 2.1
