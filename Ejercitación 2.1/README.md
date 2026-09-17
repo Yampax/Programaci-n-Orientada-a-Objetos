@@ -5,7 +5,7 @@
 
 #### Bloque I: Definición de Clases, Instanciación y Constructores
 
--[Ejercicio 1: Modelado básico e instanciación (Persona)](./Ejercitación%202.1/2.1-Ejercicio-01/)
+-[Ejercicio 1: Modelado básico e instanciación (Persona)](./2.1-Ejercicio-01/)
   <br>
 -[Ejercicio 2: Parametrización con Constructores (Mascota)](./Ejercitación%202.1/2.1-Ejercicio-02/)
  
