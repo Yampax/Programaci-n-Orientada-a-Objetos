@@ -1,10 +1,7 @@
-Repositorio destinado a almacenar los ejercicios y prácticas de Programación Orientada a Objetos realizados en Java.
 
 # 📑 Índice
 
-## Unidad 2:
-
-### Ejercitación 2.1
+## Ejercitación 2.1
 
 #### Bloque I: Definición de Clases, Instanciación y Constructores
 
